@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\VIRUS\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.12.1</NuGetToolVersion>
+  </PropertyGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <SourceRoot Include="C:\Users\VIRUS\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgSystem_Reactive_Windows_Forms Condition=" '$(PkgSystem_Reactive_Windows_Forms)' == '' ">C:\Users\VIRUS\.nuget\packages\system.reactive.windows.forms\6.0.1</PkgSystem_Reactive_Windows_Forms>
+    <PkgSystem_Data_SqlClient Condition=" '$(PkgSystem_Data_SqlClient)' == '' ">C:\Users\VIRUS\.nuget\packages\system.data.sqlclient\4.9.0</PkgSystem_Data_SqlClient>
+    <PkgSystem_Data_Common Condition=" '$(PkgSystem_Data_Common)' == '' ">C:\Users\VIRUS\.nuget\packages\system.data.common\4.3.0</PkgSystem_Data_Common>
+    <PkgMySql_Data Condition=" '$(PkgMySql_Data)' == '' ">C:\Users\VIRUS\.nuget\packages\mysql.data\9.1.0</PkgMySql_Data>
+    <PkgMicrosoft_Data_SqlClient Condition=" '$(PkgMicrosoft_Data_SqlClient)' == '' ">C:\Users\VIRUS\.nuget\packages\microsoft.data.sqlclient\5.2.2</PkgMicrosoft_Data_SqlClient>
+    <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\VIRUS\.nuget\packages\fsharp.core\9.0.100</PkgFSharp_Core>
+  </PropertyGroup>
+</Project>

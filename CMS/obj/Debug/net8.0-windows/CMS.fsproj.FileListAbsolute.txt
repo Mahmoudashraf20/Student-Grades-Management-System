@@ -1,0 +1,422 @@
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\CMS.exe
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\CMS.deps.json
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\CMS.runtimeconfig.json
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\CMS.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\CMS.pdb
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\FSharp.Core.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.AssemblyReference.cache
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfoInputs.cache
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfo.fs
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.CoreCompileInputs.cache
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.sourcelink.json
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.Up2Date
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\refint\CMS.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.pdb
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\CMS.genruntimeconfig.cache
+D:\coding\Contact-management-system-by-f-\GUI\CMS\obj\Debug\net8.0-windows\ref\CMS.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.Reactive.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\System.Text.Json.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\coding\Contact-management-system-by-f-\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\CMS.exe
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\CMS.deps.json
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\CMS.runtimeconfig.json
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\CMS.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\CMS.pdb
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\FSharp.Core.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.Reactive.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.AssemblyReference.cache
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfoInputs.cache
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfo.fs
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.CoreCompileInputs.cache
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.Up2Date
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\refint\CMS.dll
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.pdb
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\CMS.genruntimeconfig.cache
+C:\Users\VIRUS\Desktop\GUI\CMS\obj\Debug\net8.0-windows\ref\CMS.dll
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.AssemblyReference.cache
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfoInputs.cache
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfo.fs
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.CoreCompileInputs.cache
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.dll
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\refint\CMS.dll
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.pdb
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\CMS.exe
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\CMS.deps.json
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\CMS.runtimeconfig.json
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\CMS.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\CMS.pdb
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\FSharp.Core.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.Reactive.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Ashraf\GUI\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.fsproj.Up2Date
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\CMS.genruntimeconfig.cache
+D:\Ashraf\GUI\CMS\obj\Debug\net8.0-windows\ref\CMS.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.exe
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.deps.json
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.runtimeconfig.json
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.pdb
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\FSharp.Core.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Reactive.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.fsproj.AssemblyReference.cache
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfoInputs.cache
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfo.fs
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.fsproj.CoreCompileInputs.cache
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.fsproj.Up2Date
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\refint\CMS.dll
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.pdb
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.genruntimeconfig.cache
+D:\Ashraf\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\ref\CMS.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.exe
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.deps.json
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.runtimeconfig.json
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\CMS.pdb
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\FSharp.Core.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.ClientModel.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Reactive.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Reactive.Windows.Forms.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\cs\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\de\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\es\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\fr\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\it\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ja\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ko\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\pl\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\pt-BR\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ru\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\tr\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hans\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hant\FSharp.Core.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\Microsoft.Data.SqlClient.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Runtime.Caching.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.fsproj.AssemblyReference.cache
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfoInputs.cache
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.AssemblyInfo.fs
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.fsproj.CoreCompileInputs.cache
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.fsproj.Up2Date
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\refint\CMS.dll
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.pdb
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\CMS.genruntimeconfig.cache
+D:\Big Project\ابن المتناكة pl3 مشروع\CMS\obj\Debug\net8.0-windows\ref\CMS.dll
