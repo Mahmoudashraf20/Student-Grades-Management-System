@@ -74,6 +74,48 @@ let createAdminForm (mainForm: Form) =
 
         let FSLabel = new Label(Text = "FS:", AutoSize = true, Top = 300, Left = 320)
         let FSTextBox = new TextBox(Width = 200, Top = 300, Left = 380)
+
+
+
+
+// زر "Search"
+ let searchLabel = new Label(Text = "Search:", AutoSize = true, Top = 400, Left = 20)
+ let searchTextBox = new TextBox(Width = 200, Top = 400, Left = 80)
+
+ let searchButton = new Button(Text = "Search", Top = 400, Left = 300, Width = 100)
+ searchButton.Click.Add(fun _ ->
+     try
+         let searchValue = searchTextBox.Text
+         if String.IsNullOrWhiteSpace(searchValue) then
+             MessageBox.Show("Please enter a ID to search.") |> ignore
+         else
+             use connection = new MySqlConnection(connectionString)
+             connection.Open()
+
+             let query = "SELECT ID, name, grades ,English , CS , FS FROM studen_info WHERE ID = @ID"
+             use command = new MySqlCommand(query, connection)
+             command.Parameters.AddWithValue("@ID", Int32.Parse(searchValue)) |> ignore
+
+             use reader = command.ExecuteReader()
+
+             if reader.Read() then
+                IDTextBox.Text <- reader.GetInt32(0).ToString()
+                nameTextBox.Text <- reader.GetString(1)
+                gradesTextBox.Text <- reader.GetInt32(2).ToString()
+                EnglishTextBox.Text <- reader.GetInt32(3).ToString()
+                CSTextBox.Text <- reader.GetInt32(4).ToString()
+                FSTextBox.Text <- reader.GetInt32(5).ToString()
+
+             else
+                 MessageBox.Show("Not found any data about this input.") |> ignore
+
+             reader.Close()
+     with
+     | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
+ )
+
+
+
 /////////////////////// saif
 
 /////////////////////// Maghol
