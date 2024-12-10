@@ -32,7 +32,26 @@ let createAdminForm (mainForm: Form) =
     studentGridView.AutoSizeColumnsMode <- DataGridViewAutoSizeColumnsMode.Fill
 
 
-/////////////////////// saif 
+    // زر لتحديث البيانات
+    let refreshButton = new Button(Text = "Refresh Data", Top = 230, Left = 220, Width = 120)
+
+
+    // دالة لجلب البيانات من قاعدة البيانات وملء الجدول
+    let loadData () =
+        try
+            use connection = new MySqlConnection(connectionString)
+            connection.Open()
+
+            let query = "SELECT ID, name, grades ,English,CS,FS FROM studen_info"
+            use adapter = new MySqlDataAdapter(query, connection)
+            let dataTable = new DataTable()
+            adapter.Fill(dataTable) |> ignore
+
+            studentGridView.DataSource <- dataTable // ربط البيانات بالجدول
+        with
+        | ex -> MessageBox.Show("Error loading data: " + ex.Message) |> ignore
+
+/////////////////////// saif
 
 /////////////////////// Maghol
 
@@ -53,18 +72,18 @@ let createMainForm () =
     let adminButton: Button = new Button(Text = "Admin", Top = 50, Left = 140, Width = 100)
     let studentButton: Button = new Button(Text = "Student", Top = 120, Left = 140, Width = 100)
 
-    adminButton.Click.Add(fun _ -> 
-        match showPasswordPrompt () with 
-        | Some password when password = "M2003" -> 
+    adminButton.Click.Add(fun _ ->
+        match showPasswordPrompt () with
+        | Some password when password = "M2003" ->
             let adminForm = createAdminForm form // تمرير نافذة البداية
             adminForm.Show()
             form.Hide()
-        | Some _ -> 
+        | Some _ ->
             MessageBox.Show("Invalid Password!") |> ignore
         | None -> ()
     )
 
-    studentButton.Click.Add(fun _ -> 
+    studentButton.Click.Add(fun _ ->
         let studentForm = createStudentForm form // تمرير نافذة البداية
         studentForm.Show()
         form.Hide()
