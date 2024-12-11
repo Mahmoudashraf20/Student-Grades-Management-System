@@ -162,6 +162,50 @@ let createAdminForm (mainForm: Form) =
      | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
  )
 
+// زر "Edit"
+let editButton = new Button(Text = "Edit", Top = 460, Left = 140, Width = 100)
+editButton.Click.Add(fun _ ->
+    try
+        let name = nameTextBox.Text
+        let ID = IDTextBox.Text
+        let English = EnglishTextBox.Text
+        let CS = CSTextBox.Text
+        let FS = FSTextBox.Text
+        let searchValue = searchTextBox.Text
+
+        if String.IsNullOrWhiteSpace(name) || String.IsNullOrWhiteSpace(ID) then
+            MessageBox.Show("Please fill all fields to update.") |> ignore
+        elif  Int32.Parse(English) > 100 || Int32.Parse(CS) > 100 || Int32.Parse(FS) > 100 then
+            MessageBox.Show("Max value in grade is 100%") |> ignore
+        elif  Int32.Parse(English) < 0 || Int32.Parse(CS) < 0 || Int32.Parse(FS) < 0 then
+            MessageBox.Show("Min value in grade is 0%") |> ignore
+        else
+            let englishVal = Double.Parse(English)
+            let csVal = Double.Parse(CS)
+            let fsVal = Double.Parse(FS)
+            let grades = ((englishVal + csVal + fsVal) / 300.0) * 100.0
+           
+            use connection = new MySqlConnection(connectionString)
+            connection.Open()
+
+            let query = "UPDATE studen_info SET name = @name, grades = @grades, English = @English, CS = @CS, FS = @FS WHERE ID = @ID"
+            use command = new MySqlCommand(query, connection)
+            command.Parameters.AddWithValue("@name", name) |> ignore
+            command.Parameters.AddWithValue("@ID", Int32.Parse(ID)) |> ignore
+            command.Parameters.AddWithValue("@grades", grades) |> ignore
+            command.Parameters.AddWithValue("@English", englishVal) |> ignore
+            command.Parameters.AddWithValue("@CS", csVal) |> ignore
+            command.Parameters.AddWithValue("@FS", fsVal) |> ignore
+
+            let rowsAffected = command.ExecuteNonQuery()
+            if rowsAffected > 0 then
+                MessageBox.Show("Data updated successfully!") |> ignore
+            else
+                MessageBox.Show("Failed to update data.") |> ignore
+    with
+    | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
+)
+
 /////////////////////// saif
 
 /////////////////////// Maghol
@@ -171,6 +215,7 @@ let createAdminForm (mainForm: Form) =
 
 
 ////////////////////// Abdelrahman
+
 
 ////////////////////// Aboubakr
 
