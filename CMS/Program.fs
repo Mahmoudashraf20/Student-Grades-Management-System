@@ -303,3 +303,27 @@ let main argv =
         let mainForm = createMainForm()
         Application.Run(mainForm)
         0
+
+
+
+
+let showIdPrompt () =
+    let idForm = new Form(Text = "Enter Student ID", Width = 300, Height = 150, StartPosition = FormStartPosition.CenterParent)
+    let idLabel = new Label(Text = "Student ID:", Top = 20, Left = 20, AutoSize = true)
+    let idTextBox = new TextBox(Top = 20, Left = 120, Width = 150)
+    let okButton = new Button(Text = "OK", Top = 60, Left = 60, Width = 80)
+    let cancelButton = new Button(Text = "Cancel", Top = 60, Left = 160, Width = 80)
+    let mutable result: string option = None
+    
+    okButton.Click.Add(fun _ -> 
+        result <- Some idTextBox.Text
+        idForm.Close()  // Close the form after clicking OK
+    )
+    cancelButton.Click.Add(fun _ -> 
+        result <- None;  // Set result to None if Cancel is clicked
+        idForm.Close()  // Close the form when Cancel is clicked
+    )
+
+    idForm.Controls.AddRange([| idLabel :> Control; idTextBox :> Control; okButton :> Control; cancelButton :> Control |])
+    idForm.ShowDialog() |> ignore  // Show the form and wait for user interaction
+    result
