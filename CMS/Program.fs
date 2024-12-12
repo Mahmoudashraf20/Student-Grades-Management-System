@@ -116,6 +116,52 @@ let createAdminForm (mainForm: Form) =
 
 
 
+// زر "Add"
+ let addButton = new Button(Text = "Add", Top = 360, Left = 300, Width = 100)
+ addButton.Click.Add(fun _ ->
+     try
+         let name = nameTextBox.Text
+ 
+         let ID = IDTextBox.Text
+         let English = EnglishTextBox.Text
+         let CS = CSTextBox.Text
+         let FS = FSTextBox.Text
+
+
+
+         if String.IsNullOrWhiteSpace(name) || String.IsNullOrWhiteSpace(ID) then
+             MessageBox.Show("Please fill all fields.") |> ignore
+         elif  Int32.Parse(English) > 100 || Int32.Parse(CS) > 100 || Int32.Parse(FS) > 100 then
+             MessageBox.Show("Max value in grade is 100%") |> ignore
+         elif  Int32.Parse(English) < 0 || Int32.Parse(CS) < 0 || Int32.Parse(FS) < 0 then
+             MessageBox.Show("Min value in grade is 0%") |> ignore
+         else
+             let englishVal = Double.Parse(English)
+             let csVal = Double.Parse(CS)
+             let fsVal = Double.Parse(FS)
+             let grades = ((englishVal + csVal + fsVal) / 300.0) * 100.0
+
+             use connection = new MySqlConnection(connectionString)
+             connection.Open()
+
+             let query = "INSERT INTO studen_info (name, ID, grades , English , CS ,FS) VALUES (@name, @ID, @grades , @English ,@CS ,@FS)"
+             use command = new MySqlCommand(query, connection)
+             command.Parameters.AddWithValue("@name", name) |> ignore
+             command.Parameters.AddWithValue("@ID", Int32.Parse(ID)) |> ignore
+             command.Parameters.AddWithValue("@grades", grades) |> ignore
+             command.Parameters.AddWithValue("@English", Int32.Parse(English)) |> ignore
+             command.Parameters.AddWithValue("@CS", Int32.Parse(CS)) |> ignore
+             command.Parameters.AddWithValue("@FS", Int32.Parse(FS)) |> ignore
+
+             let rowsAffected = command.ExecuteNonQuery()
+             if rowsAffected > 0 then
+                 MessageBox.Show("Data added successfully!") |> ignore
+             else
+                 MessageBox.Show("Failed to add data.") |> ignore
+     with
+     | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
+ )
+
 /////////////////////// saif
 
 /////////////////////// Maghol
