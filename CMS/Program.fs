@@ -51,6 +51,29 @@ let createAdminForm (mainForm: Form) =
         with
         | ex -> MessageBox.Show("Error loading data: " + ex.Message) |> ignore
 
+
+        // تحديث البيانات عند الضغط على زر "Refresh Data"
+        refreshButton.Click.Add(fun _ -> loadData())
+
+
+        // إنشاء الحقول
+        let nameLabel = new Label(Text = "Name:", AutoSize = true, Top =300, Left = 20)
+        let nameTextBox = new TextBox(Width = 200, Top =300, Left = 80)
+
+
+        let IDLabel = new Label(Text = "ID:", AutoSize = true, Top =260, Left = 20)
+        let IDTextBox = new TextBox(Width = 200, Top =260, Left = 80)
+
+        let gradesTextBox = new TextBox(Width = 200, Top = 300, Left = 80)
+
+        let EnglishLabel = new Label(Text = "English:", AutoSize = true, Top = 330, Left = 320)
+        let EnglishTextBox = new TextBox(Width = 200, Top = 330, Left = 380)
+
+        let CSLabel = new Label(Text = "CS:", AutoSize = true, Top = 260, Left = 320)
+        let CSTextBox = new TextBox(Width = 200, Top = 260, Left = 380)
+
+        let FSLabel = new Label(Text = "FS:", AutoSize = true, Top = 300, Left = 320)
+        let FSTextBox = new TextBox(Width = 200, Top = 300, Left = 380)
 /////////////////////// saif
 
 /////////////////////// Maghol
