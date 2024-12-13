@@ -350,3 +350,16 @@ let showIdPrompt () =
 
     let FSLabel = new Label(Text = "FS:", AutoSize = true, Top = 100, Left = 320)
     let FSTextBox = new TextBox(Width = 200, Top = 100, Left = 380, ReadOnly = true)
+
+
+
+promptForID ()
+
+backButton.Click.Add(fun _ ->
+    form.Hide()
+    mainForm.Show()
+)
+
+form.Controls.AddRange([| nameLabel :> Control; nameTextBox :> Control; gradesLabel :> Control; gradesTextBox :> Control; backButton :> Control |])
+form
+
