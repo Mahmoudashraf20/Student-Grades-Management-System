@@ -327,3 +327,26 @@ let showIdPrompt () =
     idForm.Controls.AddRange([| idLabel :> Control; idTextBox :> Control; okButton :> Control; cancelButton :> Control |])
     idForm.ShowDialog() |> ignore  // Show the form and wait for user interaction
     result
+
+    
+    let createStudentForm (mainForm: Form) =
+    let form = new Form(Text = "Student Panel", Width = 800, Height = 600)
+    let backButton = new Button(Text = "Back to Main", Top = 400, Left = 400, Width = 120)
+
+    let IDLabel = new Label(Text = "ID:", AutoSize = true, Top = 20, Left = 20)
+    let IDTextBox = new TextBox(Width = 200, Top = 20, Left = 100, ReadOnly = true)
+
+    let nameLabel = new Label(Text = "Name:", AutoSize = true, Top = 100, Left = 20)
+    let nameTextBox = new TextBox(Width = 200, Top = 100, Left = 100, ReadOnly = true)
+
+    let gradesLabel = new Label(Text = "Avrage:", AutoSize = true, Top = 60, Left = 20)
+    let gradesTextBox = new TextBox(Width = 200, Top = 60, Left = 100, ReadOnly = true)
+
+    let EnglishLabel = new Label(Text = "English:", AutoSize = true, Top = 20, Left = 320)
+    let EnglishTextBox = new TextBox(Width = 200, Top = 20, Left = 380 , ReadOnly = true)
+
+    let CSLabel = new Label(Text = "CS:", AutoSize = true, Top = 60, Left = 320)
+    let CSTextBox = new TextBox(Width = 200, Top = 60, Left = 380 , ReadOnly = true)
+
+    let FSLabel = new Label(Text = "FS:", AutoSize = true, Top = 100, Left = 320)
+    let FSTextBox = new TextBox(Width = 200, Top = 100, Left = 380, ReadOnly = true)
