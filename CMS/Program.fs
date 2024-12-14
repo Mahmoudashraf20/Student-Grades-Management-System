@@ -206,6 +206,33 @@ editButton.Click.Add(fun _ ->
     | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
 )
 
+
+
+// زر "Delete"
+let deleteButton = new Button(Text = "Delete", Top = 460, Left = 20, Width = 100)
+deleteButton.Click.Add(fun _ ->
+    try
+        let searchValue = searchTextBox.Text
+
+        if String.IsNullOrWhiteSpace(searchValue) then
+            MessageBox.Show("Please enter a ID to delete.") |> ignore
+        else
+            use connection = new MySqlConnection(connectionString)
+            connection.Open()
+
+            let query = "DELETE FROM studen_info WHERE ID = @ID"
+            use command = new MySqlCommand(query, connection)
+            command.Parameters.AddWithValue("@ID", Int32.Parse(searchValue)) |> ignore
+
+            let rowsAffected = command.ExecuteNonQuery()
+            if rowsAffected > 0 then
+                MessageBox.Show("Data deleted successfully!") |> ignore
+            else
+                MessageBox.Show("Failed to delete data.") |> ignore
+    with
+    | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
+)
+
 /////////////////////// saif
 
 /////////////////////// Maghol
