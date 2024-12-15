@@ -5,11 +5,27 @@ open MySql.Data.MySqlClient
 
 let connectionString = "Server=localhost;Database=student;User Id=root;Password=;"
 
+
+//نافذة إدخال كلمة المرور
+let showPasswordPrompt () =
+    let passwordForm = new Form(Text = "Enter Password", Width = 300, Height = 150, StartPosition = FormStartPosition.CenterParent)
+    let passwordLabel: Label = new Label(Text = "Password:", Top = 20, Left = 20, AutoSize = true)
+    let passwordTextBox: TextBox = new TextBox(Top = 20, Left = 100, Width = 150, PasswordChar = '*')
+    let okButton: Button = new Button(Text = "OK", Top = 60, Left = 60, Width = 80)
+    let cancelButton: Button = new Button(Text = "Cancel", Top = 60, Left = 160, Width = 80)
+    let mutable result: string option = None
+    okButton.Click.Add(fun _ -> result <- Some passwordTextBox.Text; passwordForm.Close())
+    cancelButton.Click.Add(fun _ -> result <- None; passwordForm.Close())
+    passwordForm.Controls.AddRange([| passwordLabel :> Control; passwordTextBox :> Control; okButton :> Control; cancelButton :> Control |])
+    passwordForm.ShowDialog() |> ignore
+    result
+
 /////////////////////// saif 
 
 /////////////////////// Maghol
 
 ////////////////////// abosera3
+
 
 ////////////////////// Abdelrahman
 
