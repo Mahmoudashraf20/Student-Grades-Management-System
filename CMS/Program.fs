@@ -23,6 +23,10 @@ let showPasswordPrompt () =
 /////////////////////// saif 
 
 /////////////////////// Maghol
+// نافذة الإدمن (CRUD) مع زر العودة
+let createAdminForm (mainForm: Form) =
+    let form = new Form(Text = "Admin Panel", Width = 620, Height = 600)
+    let backButton: Button = new Button(Text = "Back to Main", Top = 500, Left = 400, Width = 120)
 
 ////////////////////// abosera3
 
