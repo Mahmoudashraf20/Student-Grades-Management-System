@@ -233,6 +233,20 @@ deleteButton.Click.Add(fun _ ->
     | ex -> MessageBox.Show($"Error: {ex.Message}") |> ignore
 )
 
+
+
+// زر "Clear"
+    let clearButton = new Button(Text = "Clear", Top = 460, Left = 300, Width = 100)
+    clearButton.Click.Add(fun _ ->
+        nameTextBox.Text <- ""
+        IDTextBox.Text <- ""
+        gradesTextBox.Text <- ""
+        EnglishTextBox.Text <- ""
+        CSTextBox.Text <- ""
+        FSTextBox.Text <- ""
+        searchTextBox.Text <- ""
+    )
+
 /////////////////////// saif
 
 /////////////////////// Maghol
