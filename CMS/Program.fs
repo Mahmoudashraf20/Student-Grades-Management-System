@@ -247,6 +247,23 @@ deleteButton.Click.Add(fun _ ->
         searchTextBox.Text <- ""
     )
 
+    // إضافة كل العناصر للنافذة
+form.Controls.AddRange(
+    [|refreshButton ; studentGridView ; nameLabel; nameTextBox;
+       IDLabel; IDTextBox;
+        gradesTextBox;FSTextBox;FSLabel;CSTextBox;CSLabel;EnglishTextBox;EnglishLabel;
+       searchLabel; searchTextBox; searchButton;
+       addButton; editButton; deleteButton; clearButton  |]
+)
+
+backButton.Click.Add(fun _ ->
+    form.Hide()
+    mainForm.Show()
+)
+
+form.Controls.Add(backButton :> Control) // إضافة زر العودة
+form
+
 /////////////////////// saif
 
 /////////////////////// Maghol
