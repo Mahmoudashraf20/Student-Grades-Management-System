@@ -10,7 +10,7 @@ open System.Reflection
 [<assembly: System.Reflection.AssemblyCompanyAttribute("CMS")>]
 [<assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")>]
 [<assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")>]
-[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")>]
+[<assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b546c6665931de1dd3653f5cb5e1125a17aa2b1")>]
 [<assembly: System.Reflection.AssemblyProductAttribute("CMS")>]
 [<assembly: System.Reflection.AssemblyTitleAttribute("CMS")>]
 [<assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")>]
